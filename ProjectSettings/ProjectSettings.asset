@@ -611,6 +611,6 @@ PlayerSettings:
   projectName: 2d-modular-rpg
   organizationId: sn0per
   cloudEnabled: 0
-  enableNativePlatformBackendsForNewInputSystem: 0
-  disableOldInputManagerSupport: 0
+  enableNativePlatformBackendsForNewInputSystem: 1
+  disableOldInputManagerSupport: 1
   legacyClampBlendShapeWeights: 0
